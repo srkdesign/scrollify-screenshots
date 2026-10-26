@@ -11,4 +11,6 @@ wheels/
 
 *.mp4
 *.png
+*.jpeg
+*.jpg
 .DS_STORE
